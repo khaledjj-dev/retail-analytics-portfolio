@@ -1,7 +1,7 @@
 # Retail Analytics Portfolio — Excel Projects
 
 **Khaled | Information Systems & Business Analytics | American University of Sharjah**
-Sophomore | Expected Graduation: May 2027 | Actively seeking Data & Analytics internships
+Junior | Expected Graduation: May 2027 | Actively seeking Data & Analytics internships
 
 ---
 
